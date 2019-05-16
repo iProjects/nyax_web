@@ -1,0 +1,76 @@
+﻿-- logger module started --
+core: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+﻿-- logger module started --
+core: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+core error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+core error: ES_OUT_RESET_PCR called
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+core error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+core error: ES_OUT_RESET_PCR called
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+core error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+core error: ES_OUT_RESET_PCR called
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+-- logger module stopped --
+﻿-- logger module started --
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+http error: cannot connect to mb.videolan.org:80
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+access_mms error: cannot connect to mb.videolan.org:80
+core error: no suitable access module for `http://mb.videolan.org/ws/2/recording/?query=artist%3A%22Taylor%20Swift%22%20AND%20recording%3A%22End%20Game%20ft.%20Ed%20Sheeran%20Future%22'
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+http error: cannot connect to images.google.com:80
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+access_mms error: cannot connect to images.google.com:80
+core error: no suitable access module for `http://images.google.com/images?q=Taylor%20Swift%20End%20Game%20ft.%20Ed%20Sheeran%20Future%20cover'
+core: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+http error: cannot connect to mb.videolan.org:80
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+access_mms error: cannot connect to mb.videolan.org:80
+core error: no suitable access module for `http://mb.videolan.org/ws/2/recording/?query=artist%3A%22Taylor%20Swift%22%20AND%20recording%3A%22End%20Game%20ft.%20Ed%20Sheeran%20Future%22'
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+http error: cannot connect to images.google.com:80
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+access_mms error: cannot connect to images.google.com:80
+core error: no suitable access module for `http://images.google.com/images?q=Taylor%20Swift%20End%20Game%20ft.%20Ed%20Sheeran%20Future%20cover'
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+http error: cannot connect to mb.videolan.org:80
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+access_mms error: cannot connect to mb.videolan.org:80
+core error: no suitable access module for `http://mb.videolan.org/ws/2/recording/?query=artist%3A%22Taylor%20Swift%22%20AND%20recording%3A%22End%20Game%20ft.%20Ed%20Sheeran%20Future%22'
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+http error: cannot connect to images.google.com:80
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+access_mms error: cannot connect to images.google.com:80
+core error: no suitable access module for `http://images.google.com/images?q=Taylor%20Swift%20End%20Game%20ft.%20Ed%20Sheeran%20Future%20cover'
+﻿-- logger module started --
+core: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+core error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+core error: ES_OUT_RESET_PCR called
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: Huffman data overrun
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+core error: ES_OUT_SET_(GROUP_)PCR  is called too late (pts_delay increased to 300 ms)
+core error: ES_OUT_RESET_PCR called
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+mpgatofixed32 error: libmad error: bad main_data_begin pointer
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+http error: cannot connect to mb.videolan.org:80
+core error: cannot resolve mb.videolan.org port 80 : No such host is known. 
+access_mms error: cannot connect to mb.videolan.org:80
+core error: no suitable access module for `http://mb.videolan.org/ws/2/recording/?query=artist%3A%22Taylor%20Swift%22%20AND%20recording%3A%22End%20Game%20ft.%20Ed%20Sheeran%20Future%22'
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+http error: cannot connect to images.google.com:80
+core error: cannot resolve images.google.com port 80 : No such host is known. 
+access_mms error: cannot connect to images.google.com:80
+core error: no suitable access module for `http://images.google.com/images?q=Taylor%20Swift%20End%20Game%20ft.%20Ed%20Sheeran%20Future%20cover'
+-- logger module stopped --
+-- logger module stopped --

@@ -1,0 +1,4 @@
+﻿-- logger module started --
+core: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+avcodec error: Could not open D:\data\20170628\video\Lil Yachty - Peek A Boo ft. Migos.mp4: Unknown error
+-- logger module stopped --

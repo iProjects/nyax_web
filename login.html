@@ -1,0 +1,95 @@
+<!DOCTYPE html> 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>amemba - kiruguri</title> 
+<link rel="stylesheet" type="text/css" href="css/site.css" media="all"/>
+<link rel="icon" type="image/png" href="images/favicon.png"/>
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
+<script src="js/jquery.js" type="text/javascript" language="javascript"></script>
+<script src="js/utilz.js" type="text/javascript" language="javascript"></script>
+<script src="js/indexdb.js" type="text/javascript" language="javascript"></script>
+<script src="js/kiruguri.js" type="text/javascript" language="javascript"></script>
+</head>
+
+<body onload='showprogressdiv();'>
+
+<div id="body">
+
+<div id="header">
+<span id="lbltitle">kiruguri</span>
+<div id="divprogress"><progress id="progressbar"></progress></div>
+</div>
+
+<div id="divnav"> 
+</div>
+
+<div id="divcontainer">
+
+<div id="divlogin" class="divwrapper">
+
+<div class="divcontent">
+<span>ritwa</span>
+<input id="txtritwa" name="txtritwa" type="text" placeholder="ritwa" autocomplete="autocomplete" />
+</div>
+<div class="divcontent">
+<span>password</span>
+<input id="txtpassword" name="txtpassword" type="text" placeholder="password" autocomplete="autocomplete" />
+</div>
+<div class="divcontent">
+<span>ndirikana?</span>
+<input id="chkndirikana" name="chkndirikana" type='checkbox'/>
+<img src='images/switchoff.png' title='ndirikana' id='imgswitchndirikana'/>
+</div>
+<div class="divcontent">
+<div class="divrdo1">
+<span>encrypted login</span>
+<input id="rdoencryptedlogin" name="rdologinmode" type="radio" placeholder="encrypted login" autocomplete="autocomplete" />
+</div>
+<div class="divrdo2">
+<span>basic login</span>
+<input id="rdobasiclogin" name="rdologinmode" type="radio" placeholder="basic login" autocomplete="autocomplete" />
+</div>
+</div>
+<div class="divcontent">
+<div class="divrdo1">
+<span>database ya local</span>
+<input id="rdodatabaselocal" name="rdodatabaseyagutumira" type="radio" placeholder="database ya local" autocomplete="autocomplete" />
+</div>
+<div class="divrdo2">
+<span>database ya cloud</span>
+<input id="rdodatabasecloud" name="rdodatabaseyagutumira" type="radio" placeholder="database ya cloud" autocomplete="autocomplete" />
+</div>
+</div>
+
+<div class="divcontent">
+<a id="btnlogin" class="btnsubmit">login</a>
+</div>
+
+</div>
+
+<div id="divapplogz">
+</div>
+
+</div>
+
+<div id="diveventsnotifier"></div>
+
+<div id="divclientinfo"></div>
+
+<div id="divverisign">
+<img src="images/verisign.bmp" id="imgverisign" class="imgverisign" title="verisign">
+<img src="images/kulimg.jpg" id="imgkulimg" class="imgkulimg" title="kulimg">
+<img src="images/cortana.gif" id="imgcortana" class="imgcortana" title="cortana">
+</div>
+
+<div id="footer">
+<span id="lblcopyright">copyright</span>
+<span id="lblfooterdate">date</span>
+<span id="lblfootertime">time</span>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+#divconsoleinput
+{
+position: relative;
+height: 100%;
+width: 100%;
+margin-bottom: 1%;
+left: 0px;
+overflow: hidden;
+overflow-y: auto;
+float: left;
+clear: none;
+}
+#lblconsoleinput
+{
+position: relative;
+height: auto;
+width: auto;
+float: left;
+clear: both;
+padding: 5px;
+margin: 1px;
+}
+#txtconsoleinput
+{
+position: relative;
+height: 100%;
+width: 100%;
+color: lime;
+background-color: black;
+left: 0px;
+float: left;
+clear: both;
+padding: 5px;
+margin: 1px;
+}
+#div_console_output
+{
+border: solid 0px #0AF026; 
+border-radius: 5px;
+position: relative;
+height: auto;
+width: 100%;
+color: lime;
+background-color: black;
+left: 0px;
+overflow: hidden;
+overflow-y: auto;
+}
+#divconsolecontrols
+{
+position: relative;
+height: auto;
+width: auto;
+float: left;
+clear: both;
+padding: 1px;
+margin: 1px;
+}
+#btnclearconsole
+{
+position: relative;
+height: auto;
+width: auto;
+float: left;
+clear: none;
+padding: 5px;
+margin-left: 2px;
+margin-right: 2px;
+}
+#btnexecutecommand
+{
+position: relative;
+height: auto;
+width: auto;
+float: left;
+clear: none;
+padding: 5px;
+margin-left: 2px;
+margin-right: 2px;
+}
+#btnshowcommandlist
+{
+position: relative;
+height: auto;
+width: auto;
+float: left;
+clear: none;
+padding: 5px;
+margin-left: 2px;
+margin-right: 2px;
+}
+
+

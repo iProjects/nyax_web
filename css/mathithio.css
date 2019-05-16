@@ -1,0 +1,493 @@
+#divcriteriacontrols
+{
+border: dotted 0px #FBE605; 
+border-radius: 1px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;
+width: auto;
+height: auto;
+}
+#divcriteriacontrols:hover
+{
+border-radius: 1px;
+border: solid 0px #FBE605;
+background-color: #E0ECE6;
+}
+#divtopsearchinfo
+{
+border: dotted 1px #FBE605; 
+border-radius: 10px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+overflow: auto;
+width: 99%;
+height: auto;
+}
+#divtopsearchinfo:hover
+{
+border: solid 1px #FBE605;
+border-radius: 10px;
+background-color: #E0ECE6;
+}
+#divsearchimg
+{
+border: dotted 0px #FBE605; 
+border-radius: 10px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+overflow: auto;
+width: 99%;
+height: auto;
+}
+#divsearchimg:hover
+{
+border: solid 0px #FBE605;
+border-radius: 10px;
+background-color: #E0ECE6;
+}
+#imgsearch
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+width: 20px;
+height: 20px;
+}
+#imgsearch:hover
+{
+box-shadow: 5px 5px 5px #008000 inset,
+            5px 5px 5px #008000 inset,
+	    5px 5px 5px #656951,
+            5px 5px 5px #656951 !important;
+}
+#divsearchcontrolz
+{
+border: dotted 1px #FBE605; 
+border-radius: 5px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6; 
+position: relative;
+display: none;
+clear: both;
+float: left;
+overflow: auto;
+width: 100%;
+height: auto;
+left: -9999px;
+z-index: 8000;
+}
+#divsearchcontrolz:hover
+{
+border: solid 1px #FBE605;
+border-radius: 5px;
+background-color: #E0ECE6;
+box-shadow: 5px 5px 5px #656951 inset,
+            5px 5px 5px #656951 inset,
+	    5px 5px 5px #656951,
+            5px 5px 5px #656951 !important;
+}
+#btnsearch
+{
+display: block;
+position: relative;
+clear: none;
+float: left;
+width: auto;
+height: auto;
+}
+#divsearchcontrolz span
+{
+border: solid 0px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+font-weight: bolder;
+font-size: 10px;
+color: #000;
+font-family: verdana;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;  
+width: auto;
+height: auto;
+}
+#cbosearchby
+{
+border: solid 1px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+left: 2%;
+width: 95%;
+height: auto;
+text-align: left;
+color: white;
+background-color: black;
+}
+#lblsearchstart
+{
+border: solid 0px #FBE605; 
+border-radius: 5px; 
+padding: 5px;
+margin: 1px;
+font-weight: bolder;
+font-size: 10px;
+color: #000;
+font-family: verdana;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;  
+width: auto;
+height: auto;
+}
+#lblsearchend
+{
+border: solid 0px #FBE605; 
+border-radius: 5px; 
+padding: 5px;
+margin: 1px;
+font-weight: bolder;
+font-size: 10px;
+color: #000;
+font-family: verdana;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;  
+width: auto;
+height: auto;
+}
+#lblsearchcontains
+{
+border: solid 0px #FBE605; 
+border-radius: 5px; 
+padding: 5px;
+margin: 1px;
+font-weight: bolder;
+font-size: 10px;
+color: #000;
+font-family: verdana;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;  
+width: auto;
+height: auto;
+}
+#txtnamesearchstart
+{
+border: solid 1px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+left: 2%;
+width: 70%;
+height: 10px;
+text-align: left;
+color: white;
+background-color: black;
+}
+#txtnamesearchend
+{
+border: solid 1px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+left: 2%;
+width: 70%;
+height: 10px;
+text-align: left;
+color: white;
+background-color: black;
+}
+#txtnamesearchcontains
+{
+border: solid 1px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+left: 2%;
+width: 70%;
+height: 10px;
+text-align: left;
+color: white;
+background-color: black;
+}
+#divsearchstart
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;
+width: 90%;
+height: auto;
+}
+#divsearchend
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+overflow: auto;
+width: 90%;
+height: auto;
+}
+#divsearchcontains
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+overflow: auto;
+width: 90%;
+height: auto;
+}
+#divsearchbtn
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: both;
+float: left;
+overflow: auto;
+width: 90%;
+height: auto;
+}
+#divsearchmode
+{
+border: dotted 0px #FBE605; 
+border-radius: 1px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;
+width: auto;
+height: auto;
+}
+#divsearchmode:hover
+{
+border-radius: 1px;
+border: solid 0px #FBE605;
+background-color: #E0ECE6;
+}
+#cbosearchmode
+{
+border: solid 1px #FBE605; 
+border-radius: 5px;
+padding: 5px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+left: 2%;
+width: 95%;
+height: auto;
+text-align: left;
+color: white;
+background-color: black;
+}
+#divglobaltableactions
+{
+border: dotted 0px #FBE605;
+border-radius: 10px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: both;
+float: left;
+overflow: visible;
+left: 0px;
+width: 100%;
+height: 100%
+}
+#divglobaltableactions:hover
+{
+border: solid 0px #FBE605; 
+border-radius: 10px;
+}
+#divselectall
+{
+border: dotted 0px #FBE605;
+border-radius: 10px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: visible;
+width: auto%;
+height: auto%
+}
+#divdeleteall
+{
+border: dotted 0px #FBE605;
+border-radius: 10px;
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: none;
+float: left;
+overflow: visible;
+width: auto%;
+height: auto%
+}
+#lblselectall
+{
+padding: 1px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+width: auto%;
+height: auto%
+}
+#chkselectall
+{
+padding: 1px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+width: auto%;
+height: auto%
+}
+#lbldeleteall
+{
+padding: 1px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+width: auto%;
+height: auto%
+}
+#btndeleteall
+{
+padding: 1px;
+margin: 1px;
+display: block;
+position: relative;
+clear: none;
+float: left;
+width: auto%;
+height: auto%
+}
+#divbtnsearch
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;
+width: auto;
+height: auto;
+left: 1%;
+}
+#divmatchcase
+{
+padding: 1px;
+margin: 1px;
+background-color: #E0ECE6;
+position: relative;
+clear: none;
+float: left;
+overflow: auto;
+width: auto;
+height: auto;
+left: 10%;
+}
+.tdid
+{
+
+}
+.tdautoid
+{
+
+}
+.tduniqeventid
+{
+
+}
+.tdeventtype
+{
+
+}
+.tdloggedinuser
+{
+
+}
+.tdcreateddate
+{
+
+}
+.tdbrowser
+{
+
+}
+

@@ -1,0 +1,103 @@
+#divrefresh
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+}
+#divchartwrapper
+{
+padding: 5px;
+margin-top: 3%;  
+border-radius: 15px;
+border-color: #008000;
+border-width: 10px;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: both;
+float: left;
+overflow: visible; 
+left: 1%;
+width: 90% !important;
+height: auto;
+}
+#divchartwrapper:hover
+{
+box-shadow: 5px 5px 5px #656951 inset,
+            5px 5px 5px #656951 inset,
+	    5px 5px 5px #656951,
+            5px 5px 5px #656951;
+background-image: linear-gradient(#d9ef65, #73ecec, #57ea69),
+                  linear-gradient(#d9ef65, #73ecec, #57ea69),
+		  linear-gradient(#d9ef65, #73ecec, #57ea69),
+                  linear-gradient(#d9ef65, #73ecec, #57ea69);
+}
+#divchartwrapper input[type=range]
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+-webkit-appearance: slider-vertical !important;
+}
+#divchartwrapper span
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+}
+.divchartcontrols
+{
+display: block !important;
+position: relative;
+clear: none !important;
+float: left !important;
+margin: 20px;
+border: solid 1px #E0ECE6;
+border-radius: 5px; 
+}
+#divcolorwrapper
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+padding: 2px;
+margin: 2px;
+width: auto;
+height: auto;
+}
+#lblpickcolor
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+padding: 2px;
+margin: 2px;
+}
+#lblcolor
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+padding: 2px;
+margin: 2px;
+}
+#txtcolor
+{
+border: solid 1px #E0ECE6;
+border-radius: 5px;
+padding: 2px;
+margin: 2px;
+width: 100px;
+height: 50px;
+background-color: #E0ECE6;
+position: relative;
+display: block !important;
+clear: both !important;
+float: left !important;
+}

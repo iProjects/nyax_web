@@ -1,0 +1,42 @@
+#divrefresh
+{
+display: block !important;
+position: relative;
+clear: both !important;
+float: left !important;
+}
+#divtreewrapper
+{
+padding: 5px;
+margin-top: 3%;  
+border-radius: 15px;
+border-color: #008000;
+border-width: 10px;
+background-color: #E0ECE6;
+display: block;
+position: relative;
+clear: both;
+float: left;
+overflow: visible; 
+left: 1%;
+width: 90% !important;
+height: auto;
+}
+#divtreewrapper:hover
+{
+box-shadow: 5px 5px 5px #656951 inset,
+            5px 5px 5px #656951 inset,
+	    5px 5px 5px #656951,
+            5px 5px 5px #656951;
+background-image: linear-gradient(#d9ef65, #73ecec, #57ea69),
+                  linear-gradient(#d9ef65, #73ecec, #57ea69),
+		  linear-gradient(#d9ef65, #73ecec, #57ea69),
+                  linear-gradient(#d9ef65, #73ecec, #57ea69);
+}
+#divtreewrapper span
+{
+display: block;
+position: relative;
+clear: both;
+float: left;
+}
