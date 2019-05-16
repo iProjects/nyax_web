@@ -8997,6 +8997,7 @@ _fl_size = Math.round(_fl_size) + " GB";
 return _fl_size;
 }
 
+/*build the playlist tree*/
 function buildmediaplaylisttree(){
 try{
 
